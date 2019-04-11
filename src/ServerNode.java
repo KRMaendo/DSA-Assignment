@@ -9,8 +9,8 @@
  * <Kuizikee Raphael Maendo> <217101461>
  * <Diina Kalimba><218095597>
  *<Nkomba Waltraud M><218102062>
- *
- *
+ *<Werner Eliaser><218062958>
+ *<Nekundi Eunike M N><217070590>
  */
 public class ServerNode<AnyType> {
 private AnyType data = null;
